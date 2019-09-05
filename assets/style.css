@@ -96,4 +96,6 @@ body::after {
     background-color: rgb(91, 190, 247);
   }
 
-  
+  #modalWinner {
+    text-align: center;
+  }
